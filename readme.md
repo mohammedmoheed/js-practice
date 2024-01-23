@@ -1,8 +1,8 @@
 ## 1. Basics
 
 - [+] Introduction to JavaScript
-- [ ] Variables and Data Types
-- [ ] Operators
+- [+] Variables and Data Types
+- [+] Operators
 
 ## 2. Control Flow
 
@@ -12,16 +12,16 @@
 
 ## 3. Functions
 
-- [ ] Function Declaration and Expression
-- [ ] Parameters and Arguments
-- [ ] Return Statement
-- [ ] Scope and Closures
+- [+] Function Declaration and Expression
+- [+] Parameters and Arguments
+- [+] Return Statement
+- [+] Scope and Closures
 
 ## 4. Data Structures
 
-- [ ] Arrays
-- [ ] Objects
-- [ ] Maps and Sets
+- [+] Arrays
+- [+] Objects
+- [+] Maps and Sets
 
 ## 5. Asynchronous JavaScript
 
@@ -35,12 +35,7 @@
 - [ ] Manipulating DOM Elements
 - [ ] Events and Event Handling
 
-## 7. Error Handling
-
-- [ ] Try-Catch Blocks
-- [ ] Custom Errors
-
-## 8. ES6+ Features
+## 7. ES6+ Features
 
 - [ ] Arrow Functions
 - [ ] Template Literals
@@ -48,7 +43,7 @@
 - [ ] Classes and Inheritance
 - [ ] Modules
 
-## 9. APIs and Fetch
+## 8. APIs and Fetch
 
 - [ ] Introduction to APIs
 - [ ] Fetch API
