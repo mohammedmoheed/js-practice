@@ -1,8 +1,8 @@
 ## 1. Basics
 
-- [+] Introduction to JavaScript
-- [+] Variables and Data Types
-- [+] Operators
+- [x] Introduction to JavaScript
+- [x] Variables and Data Types
+- [x] Operators
 
 ## 2. Control Flow
 
@@ -12,16 +12,17 @@
 
 ## 3. Functions
 
-- [+] Function Declaration and Expression
-- [+] Parameters and Arguments
-- [+] Return Statement
-- [+] Scope and Closures
+- [x] Function Declaration and Expression
+- [x] Parameters and Arguments
+- [x] Return Statement
+- [x] Scope and Closures
+- [x] Additional methods
 
 ## 4. Data Structures
 
-- [+] Arrays
-- [+] Objects
-- [+] Maps and Sets
+- [x] Arrays
+- [x] Objects
+- [x] Maps and Sets
 
 ## 5. Asynchronous JavaScript
 
